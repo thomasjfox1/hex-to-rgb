@@ -12,3 +12,5 @@ Navigate to folder, then:
 `
 python main.py
 `
+
+Sample output in rgb.txt file.
